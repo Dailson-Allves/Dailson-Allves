@@ -3,17 +3,7 @@
 <h3 align="center">Atualmente, Analista de Engenharia de Dados.<br> <br>
 Tenho aproximadamente 10 anos de experiência atuando em diversas áreas de tecnologias.</h3>
 
-<br> <br>
-<h3 align="left">Me encontre aqui:</h3>
-<p align="left">
-    <a href="https://www.facebook.com/Dailson.Allves" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Link do linkedin" height="30" width="40" />
-    </a> &nbsp;
-    <a href="https://www.instagram.com/dailsonallves" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Link do instagram" height="30" width="40" />
-    </a>
-</p
-<br> 
+
 <h3 align="left">Linguagens e ferramentas:</h3>
 <p align="left"> 
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
